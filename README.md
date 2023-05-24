@@ -34,18 +34,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details>
       <summary>
-        <a href="">[Course] Next.js - Rocketseat</a>
-        (0%)
-      </summary>
-      <ul>
-        <li>Started:</li>
-        <li>Finished:</li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>
         <a href="">[Book]
           Team Topologies: Organizing Business and Technology Teams for Fast Flow - Mattgew Skelton</a>
         (0%)
